@@ -1,1 +1,1 @@
-# avr
+# atmel-avr
